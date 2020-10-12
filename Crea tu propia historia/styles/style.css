@@ -1,0 +1,69 @@
+h1, h2, p, input {
+    color: #ffffff;
+    text-align: center;
+    font-size: 5em 5em;
+    font-family: 'Anton', sans-serif;
+}
+* {
+    background-image: url(https://fondosmil.com/fondo/32016.jpg);
+}
+
+img {
+    width: 20em;
+    height: 20em;
+    display: block;
+    margin: auto;
+    border: solid;
+    border-color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    padding: 2em;
+    text-transform: uppercase;
+}
+
+.listas {
+    text-decoration: none;
+    color: #ffff00;
+}
+
+.index {
+    padding: 4em;
+    text-transform: uppercase;
+}
+
+input {
+    display: block;
+    margin: auto;
+}
+
+.res {
+    padding-top: 15em;
+}
+
+.inc {
+    color: #FF0000;
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+    padding-top: 16em;
+}
+
+.corr {
+    color: #00ff00;
+}
+
+a {
+    text-decoration: none;
+}
